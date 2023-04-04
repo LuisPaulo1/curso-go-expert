@@ -15,7 +15,7 @@ func main() {
 
 	fmt.Println(valor)
 
-	//sub(1, 2)
+	//sub(1-Iniciando com templates, 2-Template.Must)
 }
 
 func sum1(a int, b int) int {
